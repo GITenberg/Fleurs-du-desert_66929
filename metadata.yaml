@@ -1,0 +1,27 @@
+_repo: Fleurs-du-desert_66929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moulié, Charles
+    aliases:
+    - Moulie, Charles
+    - Sandre, Thierry
+    birthdate: 1890
+    deathdate: 1950
+    gutenberg_agent_id: '52873'
+    url: http://www.gutenberg.org/2009/agents/52873
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Thierry_Sandre
+    - https://en.wikipedia.org/wiki/Thierry_Sandre
+description: ''
+gutenberg_issued: '2021-12-12'
+identifiers:
+  gutenberg: '66929'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fleurs du désert
+url: http://www.gutenberg.org/ebooks/66929
