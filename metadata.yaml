@@ -1,5 +1,8 @@
 _repo: Fleurs-du-desert_66929
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66929-h/images/cover.jpg
 creator:
   author:
     agent_name: Moulié, Charles
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Thierry_Sandre
     - https://en.wikipedia.org/wiki/Thierry_Sandre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66929#Fleurs-du-desert
 gutenberg_issued: '2021-12-12'
 identifiers:
   gutenberg: '66929'
